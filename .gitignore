@@ -14,7 +14,6 @@ derby.log
 summer-test/test-output/
 .gradle
 argfile*
-pom.xml
 activemq-data/
 
 /build
@@ -22,11 +21,6 @@ buildSrc/build
 /summer-*/build
 /src/asciidoc/build
 target/
-
-# Eclipse artifacts, including WTP generated manifests
-.classpath
-.project
-summer-*/src/main/java/META-INF/MANIFEST.MF
 
 # IDEA artifacts and output dirs
 *.iml
